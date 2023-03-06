@@ -1,0 +1,6 @@
+alias gaa='git add .'
+alias gc='git commit --no-verify'
+alias gp='git push --no-verify'
+alias gs='git status'
+alias gsw='git switch $1'
+alias gpl='git pull'
